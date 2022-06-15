@@ -1,5 +1,7 @@
 # Hello everyone, welcome to my GitHub 👋
 
+My name is Evgeniy. I am a backend developer from Kiev with 7 years of development experience. During my practice I took part in many projects with different types of directions. Implemented all sorts of complex tasks, refactoring, optimizing the project, writing tests, thinking over the architecture. In my experience I have used a large number of technologies, but I do not stop there and continue to develop every day.
+
 ## Linguagens e Tecnologias:
 
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>]()
