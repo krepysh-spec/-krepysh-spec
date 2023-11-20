@@ -23,3 +23,5 @@ My name is Evgeniy. I am a backend developer from Kiev with 7 years of developme
 
 ## Badges
 ![alt rank](https://www.codewars.com/users/krepysh-spec/badges/large)
+
+[![LeetCode Stats](https://leetcode.card.workers.dev/krepysh-spec?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/krepysh-spec/)
